@@ -6,6 +6,10 @@
     height: 600px;
 }
 
+.marginright {
+  margin-left: 10%;
+}
+
 /*
 .App {
   text-align: center;
