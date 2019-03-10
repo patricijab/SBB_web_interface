@@ -6,6 +6,20 @@
     height: 600px;
 }
 
+.coffee-shops-element {
+    margin: 0 0 20px 20px;
+}
+
+.list-coffeeshops {
+    margin-top:20px;
+    max-height: 500px;
+    overflow-y:scroll !important;
+}
+
+.map {
+    margin-top:20px;
+}
+
 /*
 .App {
   text-align: center;
